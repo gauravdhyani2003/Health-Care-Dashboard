@@ -26,5 +26,5 @@ Department-wise performance metrics
 Clean and user-friendly dashboard interface
 
 Easy to customize and scale for different healthcare datasets
-Screenshot()
+Screenshot(https://github.com/gauravdhyani2003/Health-Care-Dashboard/blob/main/Screenshot%202025-05-24%20114355.png)
 
